@@ -1,0 +1,6 @@
+*.json
+/flowersmodel
+/.vscode
+/gcp_test
+main1.py
+notebook.py
