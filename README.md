@@ -1,5 +1,6 @@
 # Deploying ML models on GCP MLE using Tensorflow Estimators
 <br/>
+
 ### Table of Contents
 
 1. [Project Motivation](#motivation)
@@ -11,7 +12,7 @@
 7. [Acknowledgements](#ack)
 
 ### Project Motivation:<a name="motivation"></a>
-This sample creates and trains MNIST model in Jupyter using Tensorflow and then deploys the trained model to Google Cloud MLE to serve the model, and accept prediction requests by REST API/Google MLE Client API.
+This sample creates and trains MNIST model in Jupyter Notrbook using Tensorflow and then deploys the trained model to Google Cloud MLE to serve the model, and accept prediction requests by REST API/Google MLE Client API.
 
 ### Dependencies <a name="depend"></a>
 refer to requirements.txt
