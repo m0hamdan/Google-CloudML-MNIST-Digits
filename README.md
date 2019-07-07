@@ -25,7 +25,7 @@ Tensorflow MNIST dataset
 2. MNIST Notebook.ipynb: A jupyter notebook file used to create and train the model then use gsutil tool to upload the trained model to Google Cloud Storage (Bucket)
 
 ### Instructions <a name="instructions"></a>
-1. Clone the repository: git clone https://github.com/m0hamdan/Dog_Breed_Identification_App.git 
+1. Clone the repository: git clone https://github.com/m0hamdan/Google-CloudML-MNIST-Digits.git 
 2. Run the following command in the repo root directory: python main.py
 
 ### Licensing <a name="licensing"></a>
